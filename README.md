@@ -25,3 +25,11 @@ summat
 
 ## 05
 summat
+
+|header 1|header 2|
+|--------|--------|
+|table body copy 1a| table body copy 1b|
+|table body copy 2a| table body copy 2b|
+|table body copy 3a| table body copy 3b|
+|table body copy 4a| table body copy 4b|
+|table body copy 5a| table body copy 5b|
