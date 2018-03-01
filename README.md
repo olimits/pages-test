@@ -1,4 +1,4 @@
-# Pages-test
+# Github pages test — Jekyll minimal theme
 ```[https://username.github.io/repo]``` | https://olimits.github.io/pages-test
 
 ## Index
