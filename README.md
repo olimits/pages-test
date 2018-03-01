@@ -1,6 +1,7 @@
-# pages-test 
+# Pages-test — https://username.github.io
+Here's one I made earlier — https://olimits.github.io
 
-## index
+## Index
 - [01](#01)  
 - [02](#02)  
 - [03](#03)  
@@ -12,24 +13,24 @@
 [There is another](/my-subfolder/summat-2.md)
 
 ## 01
-summat
+Summat
 
 ## 02
-summat
+Summat
 
 ## 03
-summat
+Summat
 
 ## 04
-summat
+Summat
 
 ## 05
-summat
+Summat
 
-|header 1|header 2|
+|Header 1| Header 2|
 |--------|--------|
-|table body copy 1a| table body copy 1b|
-|table body copy 2a| table body copy 2b|
-|table body copy 3a| table body copy 3b|
-|table body copy 4a| table body copy 4b|
-|table body copy 5a| table body copy 5b|
+|Table body copy 1a| Table body copy 1b|
+|Table body copy 2a| Table body copy 2b|
+|Table body copy 3a| Table body copy 3b|
+|Table body copy 4a| Table body copy 4b|
+|Table body copy 5a| Table body copy 5b|
