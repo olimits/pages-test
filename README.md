@@ -1,4 +1,4 @@
-# Pages-test — '''[https://username.github.io]'''
+# Pages-test — ```[https://username.github.io]```
 Here's one I made earlier — https://olimits.github.io
 
 ## Index
