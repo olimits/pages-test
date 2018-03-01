@@ -1,5 +1,5 @@
-# Pages-test — ```[https://username.github.io]```
-Here's one I made earlier — https://olimits.github.io
+# Pages-test
+```[https://username.github.io/repo]``` | https://olimits.github.io/pages-test
 
 ## Index
 - [01](#01)  
